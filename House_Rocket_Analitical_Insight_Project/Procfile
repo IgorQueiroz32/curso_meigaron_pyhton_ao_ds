@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run House_Rocket_Analytical_Insight_Project.py
